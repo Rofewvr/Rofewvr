@@ -1,16 +1,12 @@
-## Hi there 👋
+#Привет! Я Кирилл
+Python-разработчик, интересуюсь Backend.
 
-<!--
-**Rofewvr/Rofewvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Мои Hard Skills:
+-Python, ООП, алгоритмы
+-Telegram, pyrogram
+-PyGame
+-Flask, Django
+-SQLite, MySQL, postgreSQL
+-matplotlib, tensorflow, numpy
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Контакты:[Telegram](https://t.me/Good_boy_uwu)
